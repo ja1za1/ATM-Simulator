@@ -26,7 +26,7 @@ This program simulates an ATM giving the following options:
    
    ![Alt text](https://github.com/ja1za1/ATM-simulator/blob/main/imgs/picture(replace2).png)
    
-   ![Alt text](https://github.com/ja1za1/ATM-simulator/blob/main/imgs/picture(replace1).png)
+   ![Alt text](https://github.com/ja1za1/ATM-simulator/blob/main/imgs/picture(replace3).png)
    
 ## 5. Exit program
    Finishes the execution of the program.
